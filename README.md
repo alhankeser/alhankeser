@@ -3,7 +3,6 @@
 Current projects: 
 
 ### 🚴 ANTREN: personal training analysis dashboard
----
 _airflow_, _python_, _docker_, _google-cloud-run_, _bigquery_, _dbt_, _hex_
 |service|deployment|description|
 |--|--|--|
