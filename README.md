@@ -1,8 +1,13 @@
-## Analytics / Data Engineer with deep product experience
+## Analytics / Data Engineer
 
-Current projects: 
+### Current projects: 
+#### [tcx-extract](https://github.com/alhankeser/tcx-extract): fast, simple data extraction
+_zig_, _python_
 
-### 🚴 [ANTREN](https://alhan.co/g/cycling-training-data-pipeline): personal training analysis dashboard
+- A speed-optimized extractor for .tcx (XML) files from Garmin.
+- Example implementation [here](https://alhan.co/g/faster-python-tcx-xml-extraction-zig).
+---
+#### 🚴 [ANTREN](https://alhan.co/g/cycling-training-data-pipeline): personal training analysis dashboard
 _airflow_, _python_, _docker_, _google-cloud-run_, _bigquery_, _dbt_, _hex_
 |repo|role|deployment|description|
 |--|--|--|--|
