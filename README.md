@@ -1,13 +1,24 @@
 ## Analytics / Data Engineer
 
-### Current projects: 
-#### [tcx-extract](https://github.com/alhankeser/tcx-extract): fast, simple data extraction
+### Actively working on: 
+___
+#### 💰 [borsa](https://github.com/alhankeser/borsa): dbt and DuckDB transformations for day trading bot
+_dbt_, _DuckDB_, python
+
+- A complete rewrite of my previous bot, created in 2019
+- Implementing a new API (switching from TD Ameritrade to TradeStation)
+- Exploring using sql (dbt + DuckDB) for transformations instead of purely pandas
+- Looking for ways to improve performance/concurrence of backtesting strategy ideas
+
+### Recent: 
+___
+#### 🦎 [tcx-extract](https://github.com/alhankeser/tcx-extract): fast, simple data extraction
 _zig_, _python_
 
 - A speed-optimized extractor for .tcx (XML) files from Garmin.
 - Example implementation [here](https://alhan.co/g/faster-python-tcx-xml-extraction-zig).
----
-#### 🚴 [ANTREN](https://alhan.co/g/cycling-training-data-pipeline): personal training analysis dashboard
+
+#### 🚴 [antren](https://alhan.co/g/cycling-training-data-pipeline): personal training analysis dashboard
 _airflow_, _python_, _docker_, _google-cloud-run_, _bigquery_, _dbt_, _hex_
 |repo|role|deployment|description|
 |--|--|--|--|
