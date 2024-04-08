@@ -9,6 +9,7 @@ _dbt_, _DuckDB_, python
 - Implementing a new API (switching from TD Ameritrade to TradeStation)
 - Exploring using sql (dbt + DuckDB) for transformations instead of purely pandas
 - Looking for ways to improve performance/concurrence of backtesting strategy ideas
+[Learn more](https://alhan.co/g/trading-bot-dbt-duckdb)
 
 ### Recent: 
 ___
