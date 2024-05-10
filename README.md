@@ -3,6 +3,7 @@
 ### Actively working on: 
 ___
 #### 👓 [looker-label-viewer](https://github.com/alhankeser/looker-label-viewer): VS Code extension to see localized lookml label values
+_looker_, _localization_
 - When working on big Looker projects with a lot of localization, it's helpful to be able to quickly see the label associated to a dimension or measure.
 
 #### 💰 [borsa](https://github.com/alhankeser/borsa): dbt and DuckDB transformations for day trading bot
