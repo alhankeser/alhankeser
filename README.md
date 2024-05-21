@@ -10,8 +10,9 @@ _looker_, _lookml_
 _looker_, _localization_
 - When working on big Looker projects with a lot of localization, it's helpful to be able to quickly see the label associated to a dimension or measure.
 
-### Recent: 
 
+### Recent: 
+___
 #### 💰 [borsa](https://github.com/alhankeser/borsa): dbt and DuckDB transformations for day trading bot
 _dbt_, _DuckDB_, _python_
 
@@ -21,7 +22,7 @@ _dbt_, _DuckDB_, _python_
 - Looking for ways to improve performance/concurrence of backtesting strategy ideas
 
 [Learn more](https://alhan.co/g/trading-bot-dbt-duckdb)
-___
+
 #### 🦎 [tcx-extract](https://github.com/alhankeser/tcx-extract): fast, simple data extraction
 _zig_, _python_
 
