@@ -2,9 +2,15 @@
 
 ### Actively working on: 
 ___
+#### 🧹 [looker-janitor](https://github.com/alhankeser/looker-janitor): (just started)
+_looker_, _lookml_
+- When trying to keep large Looker projects organized, Looker Janitor helps keep consistency and order across LookML files.
+
 #### 👓 [looker-label-viewer](https://github.com/alhankeser/looker-label-viewer): VS Code extension to see localized lookml label values
 _looker_, _localization_
 - When working on big Looker projects with a lot of localization, it's helpful to be able to quickly see the label associated to a dimension or measure.
+
+### Recent: 
 
 #### 💰 [borsa](https://github.com/alhankeser/borsa): dbt and DuckDB transformations for day trading bot
 _dbt_, _DuckDB_, _python_
@@ -15,8 +21,6 @@ _dbt_, _DuckDB_, _python_
 - Looking for ways to improve performance/concurrence of backtesting strategy ideas
 
 [Learn more](https://alhan.co/g/trading-bot-dbt-duckdb)
-
-### Recent: 
 ___
 #### 🦎 [tcx-extract](https://github.com/alhankeser/tcx-extract): fast, simple data extraction
 _zig_, _python_
