@@ -3,7 +3,7 @@
 ### Actively working on: 
 ___
 #### 🧹 [looker-janitor](https://github.com/alhankeser/looker-janitor): Utility script to keep your Looker project tidy
-_looker_, _lookml_
+_looker_, _lookml_, _python_
 - When trying to keep large Looker projects organized, Looker Janitor helps keep consistency and order across LookML files.
 
 #### 👓 [looker-label-viewer](https://github.com/alhankeser/looker-label-viewer): VS Code extension to see localized lookml label values
