@@ -2,7 +2,7 @@
 
 ### Actively working on: 
 ___
-#### 🧹 [looker-janitor](https://github.com/alhankeser/looker-janitor): Utility script to keep your Looker project tidy
+#### 🧹 [looker-janitor](https://github.com/marketplace/actions/looker-janitor-lookml-view-cleaner): Utility script to keep your Looker project tidy
 _looker_, _lookml_, _python_
 - When trying to keep large Looker projects organized, Looker Janitor helps keep consistency and order across LookML files.
 
