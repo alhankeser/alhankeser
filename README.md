@@ -6,13 +6,12 @@ ___
 _looker_, _lookml_, _python_
 - When trying to keep large Looker projects organized, Looker Janitor helps keep consistency and order across LookML files.
 
+### Recent: 
+___
 #### 👓 [looker-label-viewer](https://github.com/alhankeser/looker-label-viewer): VS Code extension to see localized lookml label values
 _looker_, _localization_
 - When working on big Looker projects with a lot of localization, it's helpful to be able to quickly see the label associated to a dimension or measure.
 
-
-### Recent: 
-___
 #### 💰 [borsa](https://github.com/alhankeser/borsa): dbt and DuckDB transformations for day trading bot
 _dbt_, _DuckDB_, _python_
 
