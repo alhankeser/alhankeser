@@ -4,7 +4,12 @@
 ___
 #### 🧹 [looker-janitor](https://github.com/marketplace/actions/looker-janitor-lookml-view-cleaner): Utility script to keep your Looker project tidy
 _looker_, _lookml_, _python_
-- When trying to keep large Looker projects organized, Looker Janitor helps keep consistency and order across LookML files.
+- Order field types (e.g. filters, dimensions, measures)
+- Order fields (including by label and localized labels if need be)
+- Order field parameters (e.g. type, label, description, sql...)
+- Move primary key to top of dimensions list
+- Check for missing field parameters and report in %f:%l: %m format
+
 
 ### Recent: 
 ___
