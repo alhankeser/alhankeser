@@ -2,6 +2,10 @@
 
 ### Actively working on: 
 ___
+#### 🚤 [lkml-parser](https://github.com/alhankeser/lkml-parser): Faster LookML parser
+_looker_, _lookml_, _zig_
+- Parser for lookml files
+
 #### 🧹 [looker-janitor](https://github.com/marketplace/actions/looker-janitor-lookml-view-cleaner): Utility script to keep your Looker project tidy
 _looker_, _lookml_, _python_
 - Order field types (e.g. filters, dimensions, measures)
