@@ -2,9 +2,6 @@
 
 ### Actively working on: 
 ___
-#### 🚤 [lkml-parser](https://github.com/alhankeser/lkml-parser): Faster LookML parser
-_looker_, _lookml_, _zig_
-- Parser for lookml files
 
 #### 🧹 [looker-janitor](https://github.com/marketplace/actions/looker-janitor-lookml-view-cleaner): GitHub Marketplace Action to keep your Looker project tidy
 _looker_, _lookml_, _python_
@@ -16,6 +13,10 @@ _looker_, _lookml_, _python_
 
 
 ### Recent: 
+
+#### 🚤 [lkml-parser](https://github.com/alhankeser/lkml-parser): (Abandoned) Faster LookML parser
+_looker_, _lookml_, _zig_
+- Parser for lookml files
 ___
 #### 👓 [looker-label-viewer](https://github.com/alhankeser/looker-label-viewer): VS Code extension to see localized lookml label values
 _looker_, _localization_
