@@ -13,11 +13,13 @@ _looker_, _lookml_, _python_
 
 
 ### Recent: 
-
+___
 #### 🚤 [lkml-parser](https://github.com/alhankeser/lkml-parser): (Abandoned) Faster LookML parser
 _looker_, _lookml_, _zig_
 - Parser for lookml files
-___
+- Finished a first version that works, but very hard to debug due to poor code quality
+- When attempting to use more traditional approach, ran into skill issues related to proper usage of Zig memory management
+
 #### 👓 [looker-label-viewer](https://github.com/alhankeser/looker-label-viewer): VS Code extension to see localized lookml label values
 _looker_, _localization_
 - When working on big Looker projects with a lot of localization, it's helpful to be able to quickly see the label associated to a dimension or measure.
