@@ -14,7 +14,7 @@ _looker_, _lookml_, _python_
 _looker_, _lookml_, _zig_
 - Parser for lookml files
 - Finished a first version that works, but very hard to debug due to poor code quality
-- When attempting to use more traditional approach, ran into skill issues related to proper usage of Zig memory management
+- After refactoring with more traditional approach, ran into skill issues related to proper usage of Zig memory management
 
 #### 👓 [looker-label-viewer](https://github.com/alhankeser/looker-label-viewer): VS Code extension to see localized lookml label values
 _looker_, _localization_
