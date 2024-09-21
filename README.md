@@ -1,8 +1,7 @@
 ## Analytics / Data Engineer
 
-### Actively working on: 
+### Recent Projects: 
 ___
-
 #### 🧹 [looker-janitor](https://github.com/marketplace/actions/looker-janitor-lookml-view-cleaner): GitHub Marketplace Action to keep your Looker project tidy
 _looker_, _lookml_, _python_
 - Order field types (e.g. filters, dimensions, measures)
@@ -11,9 +10,6 @@ _looker_, _lookml_, _python_
 - Move primary key to top of dimensions list
 - Check for missing field parameters and report in %f:%l: %m format
 
-
-### Recent: 
-___
 #### 🚤 [lkml-parser](https://github.com/alhankeser/lkml-parser): (Abandoned) Faster LookML parser
 _looker_, _lookml_, _zig_
 - Parser for lookml files
