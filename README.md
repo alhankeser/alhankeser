@@ -1,4 +1,4 @@
-## Analytics / Data Engineer
+## Analytics Engineer
 
 ### Recent Projects: 
 ___
